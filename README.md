@@ -21,7 +21,7 @@ Creating a public repository will allow you to [visualize your repository histor
 
 However, this [repository insights](https://github.com/pricing#compare-features) feature:
 - is not available for personal **private** repositories,
-- but it is available for personal **public** repositories (or for personal **private** repositories with a **Team** subscription, which you may not have).
+- but it is available for personal **public** repositories (or for personal **private** repositories with a **Team** subscription, which you may not have). 
 
 ---
 
