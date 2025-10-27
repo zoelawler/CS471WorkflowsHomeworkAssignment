@@ -3,7 +3,7 @@ This assignment will incentivize you to get familiar with the different GitHub w
 - integrating/merging pull requests and
 - establishing traceability between commits, tasks and pull requests
 
-## Step 1 - Create a New Repository
+## Step 1 - Create a New Repository 
 Using your personal GitHub account [create a public, empty GitHub repository](https://github.com/new) called `CS471WorkflowsHomeworkAssignment`.
 
 The following options should be **disabled**/**unchecked**:
@@ -21,7 +21,7 @@ Creating a public repository will allow you to [visualize your repository histor
 
 However, this [repository insights](https://github.com/pricing#compare-features) feature:
 - is not available for personal **private** repositories,
-- but it is available for personal **public** repositories (or for personal **private** repositories with a **Team** subscription, which you may not have).
+- but it is available for personal **public** repositories (or for personal **private** repositories with a **Team** subscription, which you may not have). 
 
 ---
 
